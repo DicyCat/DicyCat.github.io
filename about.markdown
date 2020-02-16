@@ -13,37 +13,29 @@ nav_order: 2
 
 ## Members: 
 ---
-> ### Lucy Ivatt:
-> > Course: MEng Computer Science with Year in Industry 
-
-> > Role: Technical Directior
+> ### Dan Yates
+> > Email: dcy501@york.ac.uk
 
 ---
-> ### Jordan Spooner: 
-> > Course: BSc Computer Science with Year in Industry 
-
-> > Role: Librarian
+> ### Riju De: 
+> > Email: rd1127@york.ac.uk 
 
 ---
-> ### Alasdair Pilmore-Bedford: 
-> > Course: BEng Computer Science with Year in Industry 
-
-> > Role: Creative Director
+> ### Isaac Albiston: 
+> > Email: ia737@york.ac.uk
 
 ---
-> ### Matthew Gilmore: 
-> > Course: BEng Computer Science with Year in Industry 
-
-> > Role: Secretary
+> ### Luke Taylor: 
+> > Email: lnt511@york.ac.uk
 
 ---
-> ### Bruno Davies: 
-> > Course: BEng Computer Science with Year in Industry 
-
-> > Role: Tester
+> ### Martha Cartwright: 
+> > Email: mc1923@york.ac.uk
 
 ---
-> ### Cassandra Lillystone: 
-> > Course: BSc Computer Science with Year in Industry 
+> ### Mic Imbriani: 
+> > Email: mi714@york.ac.uk
 
-> > Role: Meeting Chair
+---
+> ### Sean Corrigan: 
+> > Email: sc1905@york.ac.uk
