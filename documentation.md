@@ -50,7 +50,7 @@ nav_order: 3
 ---
 ## Assessment 3
 ### DicyCat's Documentation
-> * Gantt Chart: [PDF](/files/GanttChart.pdf)
+> * Plan for Assessment 4: [PDF](/files/PlanForAssessment4.pdf)
 > * Updated Risk Register: [PDF](/files/UpdatedRiskRegister.pdf)
 
 ### NPStudio's Documentation 
