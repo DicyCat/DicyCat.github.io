@@ -7,4 +7,4 @@ nav_order: 4
 ### Download our game:
 > * [Executable JAR file](/files/desktop-1.0.jar)
 > * User Manual: [PDF](/files/user-manual.pdf)
-> * User Manual (Editable): [PDF}(/files/user-manual-editable.docx)
+> * User Manual (Editable): [PDF](/files/user-manual-editable.docx)
