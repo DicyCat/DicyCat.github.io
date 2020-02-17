@@ -50,7 +50,6 @@ nav_order: 3
 ---
 ## Assessment 3
 ### DicyCat's Documentation
-> * Link to All Assessment 3 Files: [Google Drive Folder](https://drive.google.com/drive/u/2/folders/1-xhsY7CdaLSzysKzK-s84FWeRCQOtaQ8)
 
 > * Zip File: [Assessment 3](/files/DicyCat-Assessment3.zip)
 > * JAR File: [JAR](/files/desktop-1.0.jar)
