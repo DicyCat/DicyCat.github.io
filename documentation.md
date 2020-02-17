@@ -53,10 +53,13 @@ nav_order: 3
 
 > * Zip File: [Assessment 3](/files/DicyCat-Assessment3.zip)
 > * JAR File: [JAR](/files/desktop-1.0.jar)
+> * User Manual: [PDF](/files/user-manual.pdf)
 > * Change Report: [PDF](/files/Change3.pdf)
 > * Implementation Report: [PDF](/files/Impl3.pdf)
 > > * Updated Architecture Diagram: [PNG1](/files/Assessment-3-MiniGame-UML.PNG) [PNG2](/files/Assessment-3-State-Tilemap-Diagram.PNG) [PNG3](/files/MiniGameState-MiniGameUnitManager-Relation-UML.PNG)
-> * User Manual: [PDF](/files/user-manual.pdf)
+> * Testing:
+> > * Traceability Matrix: [PDF](/files/traceability-matrix.pdf)
+> > * Test Table: [PDF](/files/test-table.pdf)
 
 > * Plan for Assessment 4: [PDF](/files/PlanForAssessment4.pdf)
 > * Updated Risk Register: [PDF](/files/UpdatedRiskRegister.pdf)
