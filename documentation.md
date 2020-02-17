@@ -56,7 +56,7 @@ nav_order: 3
 > * JAR File: [JAR](/files/desktop-1.0.jar)
 > * Change Report: [PDF](/files/Change3.pdf)
 > * Implementation Report: [PDF](/files/Impl3.pdf)
-> > * Updated Architecture Diagram: [PNG1](Assessment-3-MiniGame-UML.PNG)[PNG2](Assessment-3-State-Tilemap-Diagram.PNG)[PNG3](MiniGameState-MiniGameUnitManager-Relation-UML.PNG)
+> > * Updated Architecture Diagram: [PNG1](Assessment-3-MiniGame-UML.PNG) [PNG2](Assessment-3-State-Tilemap-Diagram.PNG) [PNG3](MiniGameState-MiniGameUnitManager-Relation-UML.PNG)
 > * User Manual: [PDF](/files/user-manual.pdf)
 
 > * Plan for Assessment 4: [PDF](/files/PlanForAssessment4.pdf)
