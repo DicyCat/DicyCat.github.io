@@ -52,6 +52,10 @@ nav_order: 3
 ### DicyCat's Documentation
 > * Link to All Assessment 3 Files: [Google Drive Folder](https://drive.google.com/drive/u/2/folders/1-xhsY7CdaLSzysKzK-s84FWeRCQOtaQ8)
 
+> * Zip File: [Assessment 3](/files/Assessment3.zip)
+> * Change Report: [PDF](/files/Change3.pdf)
+> * Implementation Report: [PDF](/files/Impl3.pdf)
+
 > * Plan for Assessment 4: [PDF](/files/PlanForAssessment4.pdf)
 > * Updated Risk Register: [PDF](/files/UpdatedRiskRegister.pdf)
 > * Updated Requirements Tables: [PDF](/files/UpdatedRequirementsTables.pdf)
