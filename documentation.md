@@ -52,23 +52,16 @@ nav_order: 3
 ### DicyCat's Documentation
 > * Link to All Assessment 3 Files: [Google Drive Folder](https://drive.google.com/drive/u/2/folders/1-xhsY7CdaLSzysKzK-s84FWeRCQOtaQ8)
 
-> * Zip File: [Assessment 3](/files/Assessment3.zip)
+> * Zip File: [Assessment 3](/files/DicyCat-Assessment3.zip)
+> * JAR File: [JAR](/files/desktop-1.0.jar)
 > * Change Report: [PDF](/files/Change3.pdf)
 > * Implementation Report: [PDF](/files/Impl3.pdf)
+> > * Updated Architecture Diagram: [PNG1](Assessment-3-MiniGame-UML.PNG)[PNG2](Assessment-3-State-Tilemap-Diagram.PNG)[PNG3](MiniGameState-MiniGameUnitManager-Relation-UML.PNG)
+> * User Manual: [PDF](/files/user-manual.pdf)
 
 > * Plan for Assessment 4: [PDF](/files/PlanForAssessment4.pdf)
 > * Updated Risk Register: [PDF](/files/UpdatedRiskRegister.pdf)
 > * Updated Requirements Tables: [PDF](/files/UpdatedRequirementsTables.pdf)
-
-### NPStudio's Documentation 
-> * Zip File: [Assessment 3](/files/NPStudios3.zip)
-> * Change Report: [PDF](/files/ChangeReport3.pdf)
-> > * Change Tracker: [PDF](/files/ChangeTracker.pdf)
-> > * Updated Assessment 4 Plan: [PDF](files/UpdatedAssessment4Plan.pdf)
-> * Implementation: [PDF](/files/Impl3.pdf)
-> > * Additions UML Diagram: [PDF](/files/Additions_UML_Diagram.png)
-> > * New and Changed Requirements: [PDF](/files/NewandChangedRequirements.pdf)
-> * Updated Testing Documentation: [Link](https://npstudios.github.io/testing/#assessment-3)
 
 ---
 ## Assessment 4
