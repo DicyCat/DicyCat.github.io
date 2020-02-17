@@ -50,8 +50,11 @@ nav_order: 3
 ---
 ## Assessment 3
 ### DicyCat's Documentation
+> * Change Report: [PDF]()
+
 > * Plan for Assessment 4: [PDF](/files/PlanForAssessment4.pdf)
 > * Updated Risk Register: [PDF](/files/UpdatedRiskRegister.pdf)
+> * Updated Requirements Tables: [PDF](/files/UpdatedRequirementsTables.pdf)
 
 ### NPStudio's Documentation 
 > * Zip File: [Assessment 3](/files/NPStudios3.zip)
