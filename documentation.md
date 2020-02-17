@@ -50,7 +50,7 @@ nav_order: 3
 ---
 ## Assessment 3
 ### DicyCat's Documentation
-> * Change Report: [PDF]()
+> * Link to All Assessment 3 Files: [Google Drive Folder](https://drive.google.com/drive/u/2/folders/1-xhsY7CdaLSzysKzK-s84FWeRCQOtaQ8)
 
 > * Plan for Assessment 4: [PDF](/files/PlanForAssessment4.pdf)
 > * Updated Risk Register: [PDF](/files/UpdatedRiskRegister.pdf)
