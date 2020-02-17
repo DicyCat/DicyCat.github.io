@@ -51,7 +51,7 @@ nav_order: 3
 ## Assessment 3
 ### DicyCat's Documentation
 
-> * Zip File: [Assessment 3](/files/DicyCat-Assessment3.zip)
+> * Zip File (Google Drive): [Assessment 3](https://drive.google.com/a/york.ac.uk/file/d/18xkUZjLGscsqrQwskGwpjiIKxb_yfS95/view?usp=sharing)
 > * JAR File: [JAR](/files/desktop-1.0.jar)
 > * User Manual: [PDF](/files/user-manual.pdf)
 > * Change Report: [PDF](/files/Change3.pdf)
