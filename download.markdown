@@ -5,6 +5,5 @@ permalink: /download/
 nav_order: 4
 ---
 ### Download our game:
-> * [Executable JAR file](/files/desktop-1.0.jar)
-> * User Manual: [PDF](/files/user-manual.pdf)
-> * User Manual (Editable): [PDF](/files/user-manual-editable.docx)
+> * [Executable JAR file](/files/desktop-1.0-assessment4.jar)
+> * User Manual: [PDF](/files/DicyCat-Kroy-Manual.pdf)
