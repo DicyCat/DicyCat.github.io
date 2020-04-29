@@ -70,9 +70,9 @@ nav_order: 3
 
 > * Zip File (Google Drive): [Assessment 4](https://drive.google.com/file/d/1E6NrDRbnKEUKpKkBAhEeITHmWSwRVBMT/view?usp=sharing)
 > * JAR File: [JAR](/files/desktop-1.0-assessment4.jar)
-> * User Manual: [PDF](/files/)
+> * User Manual: [PDF](/files/DicyCat-Kroy-Manual.pdf)
 > * Evaluation and Testing Report: [PDF](/files/ET4.pdf)
 > * Test Table: [PDF](/files/testing-table.pdf)
-> * Updated Requirements Table: [PDF](/files/updated-requirements-table.pdf)
+> * Updated Requirements Table: [PDF](/files/UpdatedRequirementsTables4.pdf)
 > * Implementation Report: [PDF](/files/Impl4.pdf)
 > * Project Review Report: [PDF](/files/Review4.pdf)
